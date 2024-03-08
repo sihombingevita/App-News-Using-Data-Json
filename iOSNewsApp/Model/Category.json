@@ -1,0 +1,70 @@
+{
+    "results": [
+        {
+            "id": 2,
+            "is_active": true,
+            "name": "Watchlist"
+        },
+        {
+            "id": 1,
+            "is_active": true,
+            "name": "Semua"
+        },
+        {
+            "id": 4,
+            "is_active": true,
+            "name": "Aset Kripto"
+        },
+        {
+            "id": 3,
+            "is_active": false,
+            "name": "Saham"
+        },
+        {
+            "id": 18,
+            "is_active": true,
+            "name": "Barang Baku"
+        },
+        {
+            "id": 21,
+            "is_active": false,
+            "name": "Energi"
+        },
+        {
+            "id": 23,
+            "is_active": true,
+            "name": "Kesehatan"
+        },
+        {
+            "id": 22,
+            "is_active": true,
+            "name": "Keuangan"
+        },
+        {
+            "id": 19,
+            "is_active": true,
+            "name": "Non Primer"
+        },
+        {
+            "id": 20,
+            "is_active": true,
+            "name": "Primer"
+        },
+        {
+            "id": 27,
+            "is_active": true,
+            "name": "Teknologi"
+        },
+        {
+            "id": 30,
+            "is_active": true,
+            "name": "LQ45"
+        },
+        {
+            "id": 29,
+            "is_active": true,
+            "name": "MANUFACTUR"
+        }
+    ]
+}
+

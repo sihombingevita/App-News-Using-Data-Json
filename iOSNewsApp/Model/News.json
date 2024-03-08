@@ -1,0 +1,155 @@
+{
+    "results": [
+        {
+            "source": "CNBC Indonesia",
+            "pub_date": "2024-01-23T07:05:00.000",
+            "id": 187306,
+            "prices": [
+                {
+                    "code": "BBCA",
+                    "change_pct": -0.0078125,
+                    "price": 9525
+                },
+                {
+                    "code": "BBNI",
+                    "change_pct": 0.004608295,
+                    "price": 5450
+                },
+                {
+                    "code": "BBRI",
+                    "change_pct": -0.01754386,
+                    "price": 5600
+                }
+            ],
+            "title": "Minimal Saldo Tabungan BCA, Mandiri, BNI, dan BRI, Ada yang Nol Rupiah",
+            "link": "https://www.cnbcindonesia.com/market/20240123064144-17-508152/minimal-saldo-tabungan-bca-mandiri-bni-bri-ada-yang-nol-rupiah",
+            "type": "STOCK"
+        },
+        {
+            "source": "IDX Channel",
+            "pub_date": "2024-01-21T18:06:00.000",
+            "id": 185964,
+            "prices": [
+                {
+                    "code": "SMGR",
+                    "change_pct": 0.0041841,
+                    "price": 6000
+                },
+                {
+                    "code": "KOPI",
+                    "change_pct": -0.03592814,
+                    "price": 322
+                },
+                {
+                    "code": "JAWA",
+                    "change_pct": -0.02531646,
+                    "price": 154
+                }
+            ],
+            "title": "Perluas Lapangan Kerja Lewat Hilirisasi Produk Kopi, Begini Strategi SIG (SMGR)",
+            "link": "https://www.idxchannel.com/amp/market-news/perluas-lapangan-kerja-lewat-hilirisasi-produk-kopi-begini-strategi-sig-smgr?utm_source=ajaib&utm_medium=aggregator",
+            "type": "STOCK"
+        },
+        {
+            "source": "Detikcom",
+            "pub_date": "2024-01-21T17:30:08.000",
+            "id": 185948,
+            "prices": [
+                {
+                    "code": "BBCA",
+                    "change_pct": -0.0078125,
+                    "price": 9525
+                },
+                {
+                    "code": "MASA",
+                    "change_pct": -0.00243309,
+                    "price": 4100
+                },
+                {
+                    "code": "BANK",
+                    "change_pct": -0.07786885,
+                    "price": 1125
+                }
+            ],
+            "title": "Perusahaan Alat Tulis-Mainan Mau IPO, Duitnya Buat Bayar Utang ke BCA Rp 50 M",
+            "link": "https://finance.detik.com/bursa-dan-valas/d-7152830/perusahaan-alat-tulis-mainan-mau-ipo-duitnya-buat-bayar-utang-ke-bca-rp-50-m",
+            "type": "STOCK"
+        },
+        {
+            "source": "Fortune IDN",
+            "pub_date": "2024-01-19T14:44:00.000",
+            "id": 184578,
+            "prices": [
+                {
+                    "code": "BBCA",
+                    "change_pct": -0.0078125,
+                    "price": 9525
+                },
+                {
+                    "code": "BANK",
+                    "change_pct": -0.07786885,
+                    "price": 1125
+                },
+                {
+                    "code": "PADA",
+                    "change_pct": 0,
+                    "price": 50
+                }
+            ],
+            "title": "Berlaku Hari ini, Simak Biaya dan Limit Transaksi BCA Terbaru",
+            "link": "https://www.fortuneidn.com/finance/eko-wahyudi/berlaku-hari-ini-simak-biaya-dan-limit-transaksi-bca-terbaru?utm_source=ajaib&utm_medium=ajaib",
+            "type": "STOCK"
+        },
+        {
+            "source": "Detikcom",
+            "pub_date": "2024-01-19T09:27:26.000",
+            "id": 184166,
+            "prices": [
+                {
+                    "code": "BBCA",
+                    "change_pct": -0.0078125,
+                    "price": 9525
+                },
+                {
+                    "code": "BANK",
+                    "change_pct": -0.07786885,
+                    "price": 1125
+                },
+                {
+                    "code": "AGAR",
+                    "change_pct": 0,
+                    "price": 107
+                }
+            ],
+            "title": "Biaya Admin dan Limit Transaksi BCA Naik Mulai Hari Ini, Jadi Segini",
+            "link": "https://finance.detik.com/moneter/d-7149302/biaya-admin-dan-limit-transaksi-bca-naik-mulai-hari-ini-jadi-segini",
+            "type": "STOCK"
+        },
+        {
+            "source": "CNBC Indonesia",
+            "pub_date": "2024-01-19T09:00:02.000",
+            "id": 184146,
+            "prices": [
+                {
+                    "code": "BBCA",
+                    "change_pct": -0.0078125,
+                    "price": 9525
+                },
+                {
+                    "code": "BANK",
+                    "change_pct": -0.07786885,
+                    "price": 1125
+                },
+                {
+                    "code": "BLUE",
+                    "change_pct": -0.01104972,
+                    "price": 358
+                }
+            ],
+            "title": "Biaya Admin Tabungan Xpresi BCA Hari Ini Resmi Naik Jadi Segini",
+            "link": "https://www.cnbcindonesia.com/market/20240119081050-17-507152/biaya-admin-tabungan-xpresi-bca-hari-ini-resmi-naik-jadi-segini",
+            "type": "STOCK"
+        }
+    ]
+}
+
